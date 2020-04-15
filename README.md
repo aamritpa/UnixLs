@@ -12,9 +12,8 @@ Running the Program:
 3. Print things depends upon input options.
  
  Functionality
- •A program that emulates ls, in UnixLs.c
- • Implemented only the following options: 
+ 1. A program that emulates ls, in UnixLs.c
+ 2.  Implemented only the following options: 
     1.-i
     2.-l
   
-  Using C libraries 
