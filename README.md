@@ -5,9 +5,11 @@ Requirement:-
   Linux or MacOs
 
 Running the Program:
-(1) Run $make
-(2) ./UnixLs options[like -i or -l or -il or -ilil ....] directories[like . or .. or ~ or /home or /home/user or ....]
-(3) Print things depends upon input options.
+1. Run $make
+
+2. ./UnixLs options[like -i or -l or -il or -ilil ....] directories[like . or .. or ~ or /home or /home/user or ....]
+
+3. Print things depends upon input options.
  
  Functionality
  •A program that emulates ls, in UnixLs.c
